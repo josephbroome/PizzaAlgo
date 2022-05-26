@@ -8,5 +8,9 @@
 6. Greet delivery driver
 7. See step 4b if necessary
 8. working on a feature on the whit branch
+<<<<<<< HEAD
 9. Just a test
+=======
+9. working on a feature on the newbranch branch
+>>>>>>> main
 10. another test
